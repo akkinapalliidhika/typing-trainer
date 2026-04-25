@@ -1,10 +1,10 @@
-# ⌨️ Typing Trainer
+# Typing Trainer
 
 A beginner-friendly, browser-based typing practice app with multiple games, a leaderboard, and dark mode. Built with pure HTML, CSS, and JavaScript — no frameworks, no installation needed.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Typing Trainer** — Real-time character highlighting, WPM & accuracy stats, 3 difficulty levels
 - **Word Scramble** — Unscramble shuffled words, persistent score
@@ -17,7 +17,7 @@ A beginner-friendly, browser-based typing practice app with multiple games, a le
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 typing-trainer/
@@ -38,7 +38,7 @@ typing-trainer/
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 No build step required. Just open in a browser:
 
@@ -60,7 +60,7 @@ Then visit `http://localhost:8000`.
 
 ---
 
-## 🎮 Games Guide
+## Games Guide
 
 | Game | Objective | Scoring |
 |------|-----------|---------|
@@ -72,7 +72,7 @@ Then visit `http://localhost:8000`.
 
 ---
 
-## 🔧 Customisation
+## Customisation
 
 All game content lives in `js/data.js`:
 
@@ -89,7 +89,7 @@ const VALID_PASSWORD = "password";
 
 ---
 
-## 📸 Tech Stack
+## Tech Stack
 
 - HTML5, CSS3 (CSS Variables, Grid, Flexbox)
 - Vanilla JavaScript (ES6+, no dependencies)
@@ -98,14 +98,8 @@ const VALID_PASSWORD = "password";
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Akkinapalli Idhika**  
 B.Tech CSE-AI · Amrita Vishwa Vidyapeetham  
-[GitHub](https://github.com) · [LinkedIn](https://linkedin.com)
-
----
-
-## 📄 License
-
-MIT — free to use, modify, and distribute.
+[GitHub](https://github.com) · [LinkedIn](https://linkedin.com
