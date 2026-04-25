@@ -1,6 +1,7 @@
 # Typing Trainer
 
-This project is a dynamic and interactive Typing Trainer Web Application developed to help users improve their typing speed and accuracy. It provides a simple and user-friendly interface along with features like typing tests, performance tracking, and basic user authentication.
+This project is a dynamic and interactive Typing Web Application developed to help users improve their typing speed and accuracy.It provides a simple and user-friendly interface along with features like typing tests, performance tracking, and basic user authentication.
+
 ---
 
 ## Features
