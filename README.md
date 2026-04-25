@@ -1,8 +1,11 @@
 # Typing Trainer
 
 This project is a dynamic and interactive Typing Trainer Web Application developed to help users improve their typing speed and accuracy. It provides a simple and user-friendly interface along with features like typing tests, performance tracking, and basic user authentication.
+
 The application calculates typing speed (WPM) and accuracy in real time, allowing users to understand their performance instantly. It also includes small interactive games to make the learning process more engaging and less monotonous.
+
 This project is built using HTML, CSS, and JavaScript, with a modular structure where different functionalities like UI handling, authentication, and game logic are separated for better organization and understanding.
+
 Overall, this project helped in gaining practical knowledge of frontend development, improving problem-solving skills, and understanding how to design an interactive web application.
 ---
 
